@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Development-Frameworks-UI-Components/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -79,120 +79,120 @@ The following table benchmarks leading SaaS and hosted platforms powering modern
 
 ## 🛠️ Open-Source Frameworks & UI Components
 
-The following top open-source projects are sorted in **descending order by GitHub Stargazers count**. Every star count badge links directly to the repository's stargazers page.
+The following top open-source projects are sorted in **descending order by GitHub Stargazers count**. Every Stars_Count badge links directly to the repository's stargazers page.
 
-- **[React (facebook/react)](https://github.com/facebook/react)** [![GitHub stars](https://img.shields.io/github/stars/facebook/react?style=social&label=Stars&color=white)](https://github.com/facebook/react/stargazers)  
+- **[React (facebook/react)](https://github.com/facebook/react)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/react?style=social&label=Stars&color=white)](https://github.com/facebook/react/stargazers)  
   🌟 Official library for web and native user interfaces; introduces React Server Components, Actions, and unified compiler support.
 
-- **[Next.js (vercel/next.js)](https://github.com/vercel/next.js)** [![GitHub stars](https://img.shields.io/github/stars/vercel/next.js?style=social&label=Stars&color=white)](https://github.com/vercel/next.js/stargazers)  
+- **[Next.js (vercel/next.js)](https://github.com/vercel/next.js)** [![GitHub_Stars](https://img.shields.io/github/stars/vercel/next.js?style=social&label=Stars&color=white)](https://github.com/vercel/next.js/stargazers)  
   ⚡ Flagship open-source React framework for building full-stack web applications with Server Components, hybrid SSR/SSG rendering, and file routing.
 
-- **[shadcn/ui (shadcn-ui/ui)](https://github.com/shadcn-ui/ui)** [![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&label=Stars&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
+- **[shadcn/ui (shadcn-ui/ui)](https://github.com/shadcn-ui/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&label=Stars&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
   🧩 Re-imagined open-source component collection built on Radix UI and Tailwind CSS that copies clean, accessible component source code directly into your repo.
 
-- **[Supabase (supabase/supabase)](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&label=Stars&color=white)](https://github.com/supabase/supabase/stargazers)  
+- **[Supabase (supabase/supabase)](https://github.com/supabase/supabase)** [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&label=Stars&color=white)](https://github.com/supabase/supabase/stargazers)  
   🔥 Open source Firebase alternative providing PostgreSQL database, instant REST/GraphQL APIs, Auth, Storage, Edge Functions, and Realtime engines.
 
-- **[Ant Design (ant-design/ant-design)](https://github.com/ant-design/ant-design)** [![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&label=Stars&color=white)](https://github.com/ant-design/ant-design/stargazers)  
+- **[Ant Design (ant-design/ant-design)](https://github.com/ant-design/ant-design)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&label=Stars&color=white)](https://github.com/ant-design/ant-design/stargazers)  
   💼 Enterprise-class UI design language and React component library with an exhaustive collection of enterprise data tables, forms, and layout widgets.
 
-- **[MUI - Material UI (mui/material-ui)](https://github.com/mui/material-ui)** [![GitHub stars](https://img.shields.io/github/stars/mui/material-ui?style=social&label=Stars&color=white)](https://github.com/mui/material-ui/stargazers)  
+- **[MUI - Material UI (mui/material-ui)](https://github.com/mui/material-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/material-ui?style=social&label=Stars&color=white)](https://github.com/mui/material-ui/stargazers)  
   🎨 Comprehensive React component library implementing Google's Material Design system with custom theming engines, data grids, and pickers.
 
-- **[Tailwind CSS (tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)** [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&label=Stars&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers)  
+- **[Tailwind CSS (tailwindlabs/tailwindcss)](https://github.com/tailwindlabs/tailwindcss)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&label=Stars&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers)  
   💎 Utility-first CSS framework enabling rapid custom UI development directly inside HTML and JSX markup with zero runtime overhead.
 
-- **[Svelte (sveltejs/svelte)](https://github.com/sveltejs/svelte)** [![GitHub stars](https://img.shields.io/github/stars/sveltejs/svelte?style=social&label=Stars&color=white)](https://github.com/sveltejs/svelte/stargazers)  
+- **[Svelte (sveltejs/svelte)](https://github.com/sveltejs/svelte)** [![GitHub_Stars](https://img.shields.io/github/stars/sveltejs/svelte?style=social&label=Stars&color=white)](https://github.com/sveltejs/svelte/stargazers)  
   🚀 Cybernetically enhanced web apps with compiler-driven reactivity, runic fine-grained state management, and zero virtual DOM runtime overhead.
 
-- **[Strapi (strapi/strapi)](https://github.com/strapi/strapi)** [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&label=Stars&color=white)](https://github.com/strapi/strapi/stargazers)  
+- **[Strapi (strapi/strapi)](https://github.com/strapi/strapi)** [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&label=Stars&color=white)](https://github.com/strapi/strapi/stargazers)  
   📦 Leading open-source Node.js headless CMS enabling developers to design customizable REST and GraphQL content APIs in minutes.
 
-- **[Astro (withastro/astro)](https://github.com/withastro/astro)** [![GitHub stars](https://img.shields.io/github/stars/withastro/astro?style=social&label=Stars&color=white)](https://github.com/withastro/astro/stargazers)  
+- **[Astro (withastro/astro)](https://github.com/withastro/astro)** [![GitHub_Stars](https://img.shields.io/github/stars/withastro/astro?style=social&label=Stars&color=white)](https://github.com/withastro/astro/stargazers)  
   🏝️ Content-driven web framework pioneering Islands Architecture to ship zero JavaScript by default while rendering React, Vue, Svelte, and Solid components.
 
-- **[PocketBase (pocketbase/pocketbase)](https://github.com/pocketbase/pocketbase)** [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&label=Stars&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
+- **[PocketBase (pocketbase/pocketbase)](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&label=Stars&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
   🗄️ Open-source backend in a single Go binary featuring embedded SQLite, authentication, realtime subscriptions, file storage, and admin dashboard.
 
-- **[Nuxt (nuxt/nuxt)](https://github.com/nuxt/nuxt)** [![GitHub stars](https://img.shields.io/github/stars/nuxt/nuxt?style=social&label=Stars&color=white)](https://github.com/nuxt/nuxt/stargazers)  
+- **[Nuxt (nuxt/nuxt)](https://github.com/nuxt/nuxt)** [![GitHub_Stars](https://img.shields.io/github/stars/nuxt/nuxt?style=social&label=Stars&color=white)](https://github.com/nuxt/nuxt/stargazers)  
   💚 Intuitive Vue 3 full-stack framework offering auto-imports, file-system routing, hybrid static/server rendering, and the Nitro server engine.
 
-- **[Appwrite (appwrite/appwrite)](https://github.com/appwrite/appwrite)** [![GitHub stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&label=Stars&color=white)](https://github.com/appwrite/appwrite/stargazers)  
+- **[Appwrite (appwrite/appwrite)](https://github.com/appwrite/appwrite)** [![GitHub_Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&label=Stars&color=white)](https://github.com/appwrite/appwrite/stargazers)  
   🛡️ Complete open-source backend server providing authentication, databases, storage, and serverless functions for web and mobile engineers.
 
-- **[React Router (remix-run/react-router)](https://github.com/remix-run/react-router)** [![GitHub stars](https://img.shields.io/github/stars/remix-run/react-router?style=social&label=Stars&color=white)](https://github.com/remix-run/react-router/stargazers)  
+- **[React Router (remix-run/react-router)](https://github.com/remix-run/react-router)** [![GitHub_Stars](https://img.shields.io/github/stars/remix-run/react-router?style=social&label=Stars&color=white)](https://github.com/remix-run/react-router/stargazers)  
   🛣️ Standards-focused full-stack React framework (Remix unified with React Router v7) centered on nested routes, data loaders, and web standards.
 
-- **[Vue.js (vuejs/core)](https://github.com/vuejs/core)** [![GitHub stars](https://img.shields.io/github/stars/vuejs/core?style=social&label=Stars&color=white)](https://github.com/vuejs/core/stargazers)  
+- **[Vue.js (vuejs/core)](https://github.com/vuejs/core)** [![GitHub_Stars](https://img.shields.io/github/stars/vuejs/core?style=social&label=Stars&color=white)](https://github.com/vuejs/core/stargazers)  
   🌱 Progressive, approachable, and versatile JavaScript framework for building user interfaces with reactive Composition API primitives.
 
-- **[TanStack Query (TanStack/query)](https://github.com/TanStack/query)** [![GitHub stars](https://img.shields.io/github/stars/TanStack/query?style=social&label=Stars&color=white)](https://github.com/TanStack/query/stargazers)  
+- **[TanStack Query (TanStack/query)](https://github.com/TanStack/query)** [![GitHub_Stars](https://img.shields.io/github/stars/TanStack/query?style=social&label=Stars&color=white)](https://github.com/TanStack/query/stargazers)  
   🔄 Powerful asynchronous state management and server-state caching for TypeScript/JavaScript, React, Vue, Svelte, and Solid.
 
-- **[Payload CMS (payloadcms/payload)](https://github.com/payloadcms/payload)** [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&label=Stars&color=white)](https://github.com/payloadcms/payload/stargazers)  
+- **[Payload CMS (payloadcms/payload)](https://github.com/payloadcms/payload)** [![GitHub_Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&label=Stars&color=white)](https://github.com/payloadcms/payload/stargazers)  
   ⚙️ Code-first, TypeScript-native headless CMS and application framework integrated directly inside Next.js with full Server Components support.
 
-- **[DaisyUI (saadeghi/daisyui)](https://github.com/saadeghi/daisyui)** [![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=Stars&color=white)](https://github.com/saadeghi/daisyui/stargazers)  
+- **[DaisyUI (saadeghi/daisyui)](https://github.com/saadeghi/daisyui)** [![GitHub_Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&label=Stars&color=white)](https://github.com/saadeghi/daisyui/stargazers)  
   🌼 Most popular semantic component class plugin for Tailwind CSS, adding clean themeable buttons, modals, cards, and navbars with minimal HTML markup.
 
-- **[Chakra UI (chakra-ui/chakra-ui)](https://github.com/chakra-ui/chakra-ui)** [![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&label=Stars&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers)  
+- **[Chakra UI (chakra-ui/chakra-ui)](https://github.com/chakra-ui/chakra-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&label=Stars&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers)  
   ⚡ Modular and accessible React component library providing style-prop ergonomics, theme tokens, and clean composability.
 
-- **[Directus (directus/directus)](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&label=Stars&color=white)](https://github.com/directus/directus/stargazers)  
+- **[Directus (directus/directus)](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&label=Stars&color=white)](https://github.com/directus/directus/stargazers)  
   🌐 Real-time open-source data engine and no-code studio wrapping any SQL database with instant REST and GraphQL endpoints.
 
-- **[SolidJS (solidjs/solid)](https://github.com/solidjs/solid)** [![GitHub stars](https://img.shields.io/github/stars/solidjs/solid?style=social&label=Stars&color=white)](https://github.com/solidjs/solid/stargazers)  
+- **[SolidJS (solidjs/solid)](https://github.com/solidjs/solid)** [![GitHub_Stars](https://img.shields.io/github/stars/solidjs/solid?style=social&label=Stars&color=white)](https://github.com/solidjs/solid/stargazers)  
   ⚡ Ultra-lightweight and performant reactive JavaScript library for building user interfaces without a virtual DOM.
 
-- **[Hono (honojs/hono)](https://github.com/honojs/hono)** [![GitHub stars](https://img.shields.io/github/stars/honojs/hono?style=social&label=Stars&color=white)](https://github.com/honojs/hono/stargazers)  
+- **[Hono (honojs/hono)](https://github.com/honojs/hono)** [![GitHub_Stars](https://img.shields.io/github/stars/honojs/hono?style=social&label=Stars&color=white)](https://github.com/honojs/hono/stargazers)  
   🔥 Ultrafast, lightweight Web Standards framework running seamlessly across Cloudflare Workers, Fastly, Deno, Bun, Node.js, and AWS Lambda.
 
-- **[Floating UI (floating-ui/floating-ui)](https://github.com/floating-ui/floating-ui)** [![GitHub stars](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social&label=Stars&color=white)](https://github.com/floating-ui/floating-ui/stargazers)  
+- **[Floating UI (floating-ui/floating-ui)](https://github.com/floating-ui/floating-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/floating-ui/floating-ui?style=social&label=Stars&color=white)](https://github.com/floating-ui/floating-ui/stargazers)  
   🎈 Low-level positioning engine for tooltips, popovers, dropdown menus, and hover cards across modern browsers.
 
-- **[Mantine (mantinedev/mantine)](https://github.com/mantinedev/mantine)** [![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Stars&color=white)](https://github.com/mantinedev/mantine/stargazers)  
+- **[Mantine (mantinedev/mantine)](https://github.com/mantinedev/mantine)** [![GitHub_Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&label=Stars&color=white)](https://github.com/mantinedev/mantine/stargazers)  
   🛡️ Full-featured React component and hooks ecosystem offering over 100 customizable accessible components, form validation, and rich-text editors.
 
-- **[HeroUI (heroui-inc/heroui)](https://github.com/heroui-inc/heroui)** [![GitHub stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&label=Stars&color=white)](https://github.com/heroui-inc/heroui/stargazers)  
+- **[HeroUI (heroui-inc/heroui)](https://github.com/heroui-inc/heroui)** [![GitHub_Stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&label=Stars&color=white)](https://github.com/heroui-inc/heroui/stargazers)  
   ✨ Modern, fast React UI library (formerly NextUI) built on top of Tailwind CSS and React Aria with sleek fluid micro-interactions and dark themes.
 
-- **[Headless UI (tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui)** [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&label=Stars&color=white)](https://github.com/tailwindlabs/headlessui/stargazers)  
+- **[Headless UI (tailwindlabs/headlessui)](https://github.com/tailwindlabs/headlessui)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&label=Stars&color=white)](https://github.com/tailwindlabs/headlessui/stargazers)  
   🔓 Completely unstyled, fully accessible UI components engineered by the Tailwind Labs team to integrate seamlessly with Tailwind CSS.
 
-- **[Lucide Icons (lucide-icons/lucide)](https://github.com/lucide-icons/lucide)** [![GitHub stars](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&label=Stars&color=white)](https://github.com/lucide-icons/lucide/stargazers)  
+- **[Lucide Icons (lucide-icons/lucide)](https://github.com/lucide-icons/lucide)** [![GitHub_Stars](https://img.shields.io/github/stars/lucide-icons/lucide?style=social&label=Stars&color=white)](https://github.com/lucide-icons/lucide/stargazers)  
   🖋️ Clean and consistent open-source icon toolkit with 1,400+ vector icons optimized for React, Vue, Svelte, and vanilla HTML.
 
-- **[Magic UI (magicuidesign/magicui)](https://github.com/magicuidesign/magicui)** [![GitHub stars](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&label=Stars&color=white)](https://github.com/magicuidesign/magicui/stargazers)  
+- **[Magic UI (magicuidesign/magicui)](https://github.com/magicuidesign/magicui)** [![GitHub_Stars](https://img.shields.io/github/stars/magicuidesign/magicui?style=social&label=Stars&color=white)](https://github.com/magicuidesign/magicui/stargazers)  
   🪄 Curated library of 50+ animated landing page components, marquees, bento grids, and micro-interactions built with React, Tailwind CSS, and Framer Motion.
 
-- **[SvelteKit (sveltejs/kit)](https://github.com/sveltejs/kit)** [![GitHub stars](https://img.shields.io/github/stars/sveltejs/kit?style=social&label=Stars&color=white)](https://github.com/sveltejs/kit/stargazers)  
+- **[SvelteKit (sveltejs/kit)](https://github.com/sveltejs/kit)** [![GitHub_Stars](https://img.shields.io/github/stars/sveltejs/kit?style=social&label=Stars&color=white)](https://github.com/sveltejs/kit/stargazers)  
   🧡 Official full-stack application framework for Svelte offering fast file-based routing, server-side rendering, and progressive enhancement.
 
-- **[Radix Primitives (radix-ui/primitives)](https://github.com/radix-ui/primitives)** [![GitHub stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&label=Stars&color=white)](https://github.com/radix-ui/primitives/stargazers)  
+- **[Radix Primitives (radix-ui/primitives)](https://github.com/radix-ui/primitives)** [![GitHub_Stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&label=Stars&color=white)](https://github.com/radix-ui/primitives/stargazers)  
   🧩 Unstyled, accessible React primitives engineered for keyboard navigation, focus management, and custom design systems.
 
-- **[React Aria (adobe/react-spectrum)](https://github.com/adobe/react-spectrum)** [![GitHub stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&label=Stars&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
+- **[React Aria (adobe/react-spectrum)](https://github.com/adobe/react-spectrum)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&label=Stars&color=white)](https://github.com/adobe/react-spectrum/stargazers)  
   ♿ Adobe's open-source collection of accessible React hooks and unstyled components delivering internationalization and screen-reader support.
 
-- **[TanStack Router (TanStack/router)](https://github.com/TanStack/router)** [![GitHub stars](https://img.shields.io/github/stars/TanStack/router?style=social&label=Stars&color=white)](https://github.com/TanStack/router/stargazers)  
+- **[TanStack Router (TanStack/router)](https://github.com/TanStack/router)** [![GitHub_Stars](https://img.shields.io/github/stars/TanStack/router?style=social&label=Stars&color=white)](https://github.com/TanStack/router/stargazers)  
   🚦 100% type-safe router and full-stack web framework with built-in search param validation and automatic code splitting.
 
-- **[PrimeVue (primefaces/primevue)](https://github.com/primefaces/primevue)** [![GitHub stars](https://img.shields.io/github/stars/primefaces/primevue?style=social&label=Stars&color=white)](https://github.com/primefaces/primevue/stargazers)  
+- **[PrimeVue (primefaces/primevue)](https://github.com/primefaces/primevue)** [![GitHub_Stars](https://img.shields.io/github/stars/primefaces/primevue?style=social&label=Stars&color=white)](https://github.com/primefaces/primevue/stargazers)  
   💎 Comprehensive enterprise UI component suite for Vue.js with 90+ components, theme designer, and Tailwind CSS integrations.
 
-- **[Base UI (mui/base-ui)](https://github.com/mui/base-ui)** [![GitHub stars](https://img.shields.io/github/stars/mui/base-ui?style=social&label=Stars&color=white)](https://github.com/mui/base-ui/stargazers)  
+- **[Base UI (mui/base-ui)](https://github.com/mui/base-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/base-ui?style=social&label=Stars&color=white)](https://github.com/mui/base-ui/stargazers)  
   🧱 Unstyled open-source React component library crafted by MUI and Radix engineers for building custom design systems without CSS overrides.
 
-- **[Motion Primitives (ibelick/motion-primitives)](https://github.com/ibelick/motion-primitives)** [![GitHub stars](https://img.shields.io/github/stars/ibelick/motion-primitives?style=social&label=Stars&color=white)](https://github.com/ibelick/motion-primitives/stargazers)  
+- **[Motion Primitives (ibelick/motion-primitives)](https://github.com/ibelick/motion-primitives)** [![GitHub_Stars](https://img.shields.io/github/stars/ibelick/motion-primitives?style=social&label=Stars&color=white)](https://github.com/ibelick/motion-primitives/stargazers)  
   🎭 Collection of smooth, copy-paste animated React UI components powered by Framer Motion and Tailwind CSS.
 
-- **[SolidStart (solidjs/solid-start)](https://github.com/solidjs/solid-start)** [![GitHub stars](https://img.shields.io/github/stars/solidjs/solid-start?style=social&label=Stars&color=white)](https://github.com/solidjs/solid-start/stargazers)  
+- **[SolidStart (solidjs/solid-start)](https://github.com/solidjs/solid-start)** [![GitHub_Stars](https://img.shields.io/github/stars/solidjs/solid-start?style=social&label=Stars&color=white)](https://github.com/solidjs/solid-start/stargazers)  
   ⚡ Full-stack meta-framework for SolidJS powered by Vinxi and Vite for fast client and server rendering.
 
-- **[Ark UI (chakra-ui/ark)](https://github.com/chakra-ui/ark)** [![GitHub stars](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Stars&color=white)](https://github.com/chakra-ui/ark/stargazers)  
+- **[Ark UI (chakra-ui/ark)](https://github.com/chakra-ui/ark)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/ark?style=social&label=Stars&color=white)](https://github.com/chakra-ui/ark/stargazers)  
   🤖 Headless UI component library built on Zag.js state machines supporting React, Solid, Vue, and Svelte with identical APIs.
 
-- **[Pebrel (Kuddev/pebrel)](https://github.com/Kuddev/pebrel)** [![GitHub stars](https://img.shields.io/github/stars/Kuddev/pebrel?style=social&label=Stars&color=white)](https://github.com/Kuddev/pebrel/stargazers)  
+- **[Pebrel (Kuddev/pebrel)](https://github.com/Kuddev/pebrel)** [![GitHub_Stars](https://img.shields.io/github/stars/Kuddev/pebrel?style=social&label=Stars&color=white)](https://github.com/Kuddev/pebrel/stargazers)  
   🛠️ Open-source web development and UI tooling utility referenced in the ecosystem seed list.
 
 ---
