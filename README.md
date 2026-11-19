@@ -29,6 +29,7 @@
 - [🏗️ Architectural Categories & Technology Landscape](#️-architectural-categories--technology-landscape)
 - [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📜 License & Disclaimer](#-license--disclaimer)
 
 ---
@@ -241,6 +242,26 @@ Contributions to expand and update this ecosystem are welcome!
 2. 🌿 Create a descriptive feature branch: `git checkout -b add-awesome-framework`.
 3. 📝 Add or update items maintaining factual accuracy, official URLs, and specific pricing / limits.
 4. 📬 Submit a Pull Request with a clear description of the project and why it belongs in this collection.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this curated resource! If you find this guide helpful for your projects, research, or tech stack selection, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other developers discover it on GitHub.
+- 🍴 **Fork and contribute** by submitting new frameworks, UI kits, or documentation improvements.
+- 📢 **Share it** with friends, colleagues, and developer communities on Twitter/X, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee / Sponsor**: If this project saved you time or aided your work, support continued updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
